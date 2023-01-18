@@ -1,2 +1,2 @@
 # ML_avance
-Coding the Neuronal Network models
+Coding a Neuronal Network basic model from scratch
